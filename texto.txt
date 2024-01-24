@@ -1,0 +1,32 @@
+**Componente de Classificação por Estrelas**
+
+**Descrição do Desafio**
+Neste desafio front-end, você construirá um Componente de Classificação por Estrelas. Este desafio é perfeito para você se estiver interessado em construir componentes web front-end e levar suas habilidades front-end para o próximo nível!
+
+**Nível de Dificuldade**
+Intermediário
+
+**Tags**
+FRONTEND
+
+**Aprendizado**
+Neste desafio front-end, você aprenderá como construir um componente de interface do usuário do mundo real usando JavaScript ou ReactJs. Você também aprenderá como usar o CSS Flexbox para dispor o componente e torná-lo responsivo. Este desafio front-end é uma ótima oportunidade para melhorar suas habilidades em JavaScript e ReactJs construindo um componente web front-end. Você vai adorar!
+
+**Requisitos**
+- O componente de classificação por estrelas deve exibir um conjunto de estrelas que podem ser clicadas ou passadas o mouse para selecionar uma classificação.
+- O componente deve ser personalizável, com uma opção para alterar o número de estrelas a serem exibidas.
+- Quando o usuário clica em uma estrela para selecionar uma classificação, a classificação deve ser atualizada e uma mensagem correspondente deve ser exibida.
+- O componente deve garantir que passar o mouse sobre a terceira estrela após selecionar a quarta estrela destaque apenas a primeira, segunda e terceira estrelas.
+
+**Requisitos de Bônus**
+- O componente deve permitir que os usuários selecionem meias classificações (por exemplo, 4,5 estrelas).
+
+**Texto**
+1. Classificação de 5 estrelas: Excelente! Estamos felizes em saber que você teve uma experiência tão positiva. Obrigado por escolher nosso produto/serviço.
+2. Classificação de 4 estrelas: Obrigado por seu feedback positivo! Estamos felizes em saber que você teve uma ótima experiência e agradecemos seu apoio.
+3. Classificação de 3 estrelas: Obrigado por seu feedback. Lamentamos que sua experiência não tenha sido perfeita. Gostaríamos de saber mais sobre suas preocupações para ver como podemos melhorar.
+4. Classificação de 2 estrelas: Pedimos desculpas pelo inconveniente que você passou. Agradecemos seu feedback e gostaríamos de trabalhar com você para resolver quaisquer problemas.
+5. Classificação de 1 estrela: Lamentamos que você tenha tido uma experiência ruim. Gostaríamos de saber mais sobre o que aconteceu e como podemos consertar as coisas.
+
+Espero que você goste de construir este desafio.
+Sinta-se à vontade para compartilhar sua solução no site ou nas redes sociais e [marcar-nos](https://twitter.com/FrontendProHQ).
